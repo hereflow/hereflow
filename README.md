@@ -33,35 +33,35 @@ Desenvolvedor especializado em sistemas de alta performance e interação profun
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-*   **Ecossistema Windows:** Win32 API, Memory Management, Driver Development, WinDbg, x64dbg.
-*   **Documentação & Gestão:** Git, Obsidian (Metodologia Zettelkasten para documentação técnica).
+* **Ecossistema Windows:** Win32 API, Memory Management, Driver Development, WinDbg, x64dbg.
+* **Documentação & Gestão:** Git, Obsidian (Metodologia Zettelkasten para documentação técnica).
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-*   **System Integrity Monitors:** Sistemas de defesa ativa para monitoramento e proteção de memória em tempo real.
-*   **High-Performance Telemetry APIs:** Backends distribuídos integrando agentes nativos C++ a dashboards modernos.
-*   **External Graphics Engine (ImGui):** Overlays utilizando renderização externa baseada puramente em leitura de memória e padrões (patterns).
+* **System Integrity Monitors:** Sistemas de defesa ativa para monitoramento e proteção de memória em tempo real.
+* **High-Performance Telemetry APIs:** Backends distribuídos integrando agentes nativos C++ a dashboards modernos.
+* **External Graphics Engine (ImGui):** Overlays utilizando renderização externa baseada puramente em leitura de memória e padrões (patterns).
 
 ---
 
 ### 📊 Performance & Impacto
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hereflow&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hereflow&layout=compact&langs_count=7&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hereflow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hereflow&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hereflow&theme=algolia" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hereflow&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🎓 Experiência
 
-*   **Atuação:** Engenharia de Software e Segurança Ofensiva (Desde 2022).
-*   **Foco Atual:** Arquitetura de sistemas de proteção de dados e otimização de Kernel.
+* **Atuação:** Engenharia de Software e Segurança Ofensiva (Desde 2022).
+* **Foco Atual:** Arquitetura de sistemas de proteção de dados e otimização de Kernel.
 
 > "Performance não é um detalhe, é o fundamento."
