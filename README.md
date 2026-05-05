@@ -49,12 +49,12 @@ Desenvolvedor especializado em sistemas de alta performance e interação profun
 ### 📊 Performance & Impacto
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hereflow&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hereflow&layout=compact&langs_count=7&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hereflow&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hereflow&layout=compact&langs_count=7&theme=algolia" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hereflow&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hereflow&theme=algolia" />
 </p>
 
 ---
