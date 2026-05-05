@@ -49,12 +49,12 @@ Desenvolvedor especializado em sistemas de alta performance e interação profun
 ### 📊 Performance & Impacto
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hereflow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hereflow&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hereflow&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hereflow&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hereflow&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hereflow&theme=tokyonight" />
 </p>
 
 ---
